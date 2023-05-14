@@ -1,0 +1,13 @@
+
+
+### Find user with id
+GET http://localhost:3000/auth/2
+
+### Find All Users with email
+GET http://localhost:3000/auth?email=casey.hald@gmail.com
+
+### Delete user given id
+DELETE http://localhost:3000/auth/2
+
+### Update a user
+
